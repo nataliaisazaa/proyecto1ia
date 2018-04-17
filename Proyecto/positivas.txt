@@ -1,0 +1,11 @@
+positivas/pos-01.jpeg 1 120 393 403 355
+positivas/pos-02.jpeg 1 130 412 228 283
+positivas/pos-03.jpeg 1 114 135 392 494
+positivas/pos-04.jpeg 1 31 260 526 470
+positivas/pos-05.jpeg 1 17 261 526 423
+positivas/pos-06.jpeg 1 265 67 548 471
+positivas/pos-07.jpeg 1 18 397 548 471
+positivas/pos-08.jpeg 1 225 53 553 453
+positivas/pos-09.jpeg 1 21 356 536 425
+positivas/pos-10.jpeg 1 44 359 521 410
+positivas/pos-11.jpeg 1 14 378 524 413

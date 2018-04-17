@@ -1,0 +1,1 @@
+C:\opencv\build\x64\vc15\bin\opencv_createsamples.exe -info positivas.txt -vec data\muestra.vec -num 11 -w 21 -h 21
